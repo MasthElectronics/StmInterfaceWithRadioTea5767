@@ -1,1 +1,7 @@
-# StmInterfaceWithRadioTea5767
+# STM Interface With TEA5767 FM Radio Module
+Here, you can find the TEA5767 FM Radio Module Interface code for STM microcontroller. 
+
+The STM microcontroller used here is STM32F411CEU6.
+
+# Youtube tutorials
+Will be uploaded soon
