@@ -4,4 +4,4 @@ Here, you can find the TEA5767 FM Radio Module Interface code for STM microcontr
 The STM microcontroller used here is STM32F411CEU6.
 
 # Youtube tutorials
-Will be uploaded soon
+https://youtu.be/WaF1e1Qqb1o?si=JTVBkSgF1IQNer2a
